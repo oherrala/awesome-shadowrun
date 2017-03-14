@@ -10,6 +10,14 @@ Collection on awesome material for tabletop role playing game Shadowrun. Any mat
 * [Shadowrun wiki](http://shadowrun.wikia.com/wiki/Shadowrun) on Wikia. Shares wiki with the computer and console games.
 * [The Official Shadowrun Tabletop Tumblr](http://shadowrun.tumblr.com/).
 
+## Awesome Shadowrun Trailers
+
+* [Shadowrun: Welcome To The Sixth World!](https://www.youtube.com/watch?v=H4hhijKuVW4)
+* [Shadowrun RPG trailer](https://www.youtube.com/watch?v=CJz3pvhBMos)
+* [(Fan-Made) Shadowrun Intro HD Remake](https://www.youtube.com/watch?v=Q4wj3z45314)
+* [Shadowrun - Welt der Schatten: Trailer #1](https://www.youtube.com/watch?v=IHX8HKy8HT0)
+* [SHADOWRUNNERS ~ Shadowrun RPG Fan Trailer](https://www.youtube.com/watch?v=pQ3YwmDeI8Q)
+
 ## Summaries
 
 * [Hardcode Mode's Shadowrun 5 Tabletop Notes](https://hardcoregamemode.blogspot.fi/2015/01/shadowrun-tabletop-rpg-useful-links.html).
@@ -18,6 +26,11 @@ Collection on awesome material for tabletop role playing game Shadowrun. Any mat
 
 * [World of Shadowrun Primer](https://web.archive.org/web/20150416060521/http://harebrained-schemes.com/shadowrun/primer/) 87 page PDF document from Harebrained Schemes. (original removed, link is via archive.org. Another [link](https://s3.amazonaws.com/ch_shadowrun/shadowrun_primer.pdf) to PDF)
 * [The Shadowrun 5 Superbook](https://www.reddit.com/r/Shadowrun/comments/28b4q3/the_shadowrun_5_superbook/). Big reference for everything.
+
+## Awesome Google Docs material
+
+* [So you want to be a shadowrunner](https://docs.google.com/document/d/1pNZTfFJPUUxXUzd1sq58_fzC13gmjQnr8H68eTwJMlk)
+* [The 26,000 nuyen gear guide](https://docs.google.com/document/d/1WRYFKKY-b3QZEvrGUWVNTewQs2hqaayCA-5kssRrLA0)
 
 ## Awesome Youtubers explaining things
 
